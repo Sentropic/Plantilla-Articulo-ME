@@ -1,0 +1,156 @@
+%////////////////////////////////////////////////////////////////////////////////////////////////////////////
+% INSTITUTO TECNOLOGICO DE COSTA RICA
+% Escuela de Ciencia e Ingenieria de los Materiales
+% Material Science and Engineering School
+% https://www.tec.ac.cr
+% Sebas Solís Vargas (elle/they)
+% Email: sentropic.sv@gmail.com
+% https://twitter.com/Sentropic_
+% https://github.com/Sentropic
+
+%/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+% BLOCK: LATEX document configuration and packages loading
+%/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+% Sheet format and letter size is defined
+\documentclass[10pt, a4paper, twocolumn]{article} 
+\usepackage[fontsize=9pt]{fontsize}
+\setlength{\parindent}{0pt}
+\setlength{\columnsep}{4em}
+
+% Date commands are defined
+\def\mydate{\leavevmode\hbox{\the\year/\twodigits\month/\twodigits\day}}
+\def\twodigits#1{\ifnum#1<10 0\fi\the#1}
+
+% Margens are defined
+\usepackage[left=2.26cm,right=2.08cm,top=2.01cm,bottom=2.01cm]{geometry} 
+\setlength{\marginparwidth}{1.8cm}
+
+%Translates various standard and input encodings into LaTeX internal language
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[lining]{ebgaramond}
+
+% Several mathematical symbolologies are defined
+\usepackage{amsmath} 
+\usepackage{amsfonts} 
+\usepackage{amssymb}
+
+% Mathematical equations are enumerated
+\usepackage{makeidx}
+
+% Packages for Excel2Latex are loaded
+\usepackage{bigstrut}
+
+% Document language is selected
+\usepackage[spanish,es-tabla]{babel}
+\usepackage{csquotes}
+
+% Document spacing is defined
+\usepackage{setspace}
+
+% Document spacing is set
+\onehalfspacing %Spacing
+
+% Improves interface for floating objects (figures and tables)
+\usepackage{float} 
+
+% Allows manipulation of images, headers, footers, etc.
+\usepackage{graphicx}
+\usepackage{fancyhdr}
+\usepackage{titling}
+\usepackage{titlesec}
+\titleformat{\section}[hang]{\fontsize{10}{12} \bfseries}{\thesection}{2em}{}
+\titlespacing{\section}{0pt}{0.5em}{0.5em}
+
+% Bibliography packages are loaded
+\usepackage[backend=biber,sorting=none]{biblatex}
+\usepackage{hyperref}
+
+% References (*.BIB) file is loaded !!!
+\addbibresource{reference.bib}
+
+% Allows adding references within the index
+\usepackage[nottoc]{tocbibind}
+
+% Allows temporary annotations during writing
+% Can be disabled adding [disable]
+\usepackage[textsize=tiny]{todonotes}
+
+%/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+% BLOCK: LATEX document writing
+%/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+% Document is started
+\begin{document}
+
+\twocolumn[
+\begin{minipage}{0.595\textwidth} % Left side of header
+\raggedright
+\raisebox{-0.38\height}{\includegraphics[scale=1]{images/template/ME logo.png}} {\fontsize{9}{10} \textbf{Escuela de Ciencia e ingeniería de los Materiales}}
+\end{minipage}
+\begin{minipage}{0.395\textwidth} % Right side of header
+\raggedleft
+\raisebox{-0.3\height}{\includegraphics[scale=1]{images/template/TEC logo.png}}
+\end{minipage}
+
+\begin{center}
+	\fontsize{14}{18} \textbf{<TÍTULO>}
+\end{center}
+
+\fontsize{11}{14} \textbf{<Autore>$^1$, <Autore>$^2$}\medskip\\
+<Código del curso> <Nombre del curso>\\
+<Semestre> Semestre \the\year\\
+Fecha: \mydate\\
+<Prof.|Dr.|Ing.|etc> <Profesore>\medskip\\
+$^{1,2}$ Escuela de Ciencia e Ingeniería de los Materiales (ECIM), Instituto Tecnológico de Costa Rica (ITCR), Cartago 159-7050, Costa Rica\\
+$^1$ \href{mailto:email@uni.edu}{email@uni.edu}, $^2$ \href{email@uni.edu}{email@uni.edu}\bigskip\\
+\fontsize{9}{12} \textbf{Palabras clave: <Palabra clave>, <Palabra clave>, <Palabra clave>, <Palabra clave>, <Palabra clave>}
+
+\begin{center}
+\fontsize{10}{12} \textbf{Resumen}
+\end{center}
+\renewcommand{\abstractname}{\vspace{-2.5em}}
+\begin{abstract}
+As a primary goal, the abstract should render the general significance and conceptual advance of the work clearly accessible to a broad readership. References should not be cited in the abstract. 
+\end{abstract}\bigskip]
+
+\section{Introducción}
+For Original Research Articles, Clinical Trial Articles, and Technology Reports the introduction should be succinct, with no subheadings.
+
+\section{Materiales y Métodos}
+This section may be divided by subheadings. This section should contain sufficient detail so that when read in conjunction with cited references, all procedures can be repeated.
+
+\section{Resultados y Discusión}
+This section may be divided by subheadings. Footnotes should not be used and have to be transferred into the main text.
+Discussions should cover the key findings of the study: discuss any prior art related to the subject so to place the novelty of the discovery in the appropriate context; discuss the potential short-comings and limitations on their interpretations; discuss their integration into the current understanding of the problem and how this advances the current views; speculate on the future direction of the research and freely postulate theories that could be tested in the future \cite{cengel, coleparmer, goulds}.
+Please note that the Material and Methods section can be placed in any of the following ways: before Results, before Discussion or after Discussion.
+
+\begin{figure}[htbp!]
+	\centering
+	\missingfigure{Reemplazar figura temporal}
+	\caption{Puedes añadir figuras temporales}
+	\label{fig:placeholder}
+\end{figure}
+
+\section{Conclusiones}
+Note here the remarks of your work. By reading the abstract and conclusion any person on the field must be able to understand your work.
+
+\section*{Agradecimientos}
+This is a short text to acknowledge the contributions of specific colleagues, institutions, or agencies that aided the efforts of the authors. 
+Funding: Details of all funding sources should be provided, including grant numbers if applicable. Please ensure to add all necessary funding information, as after publication this is no longer possible.
+
+\section*{Referencias}
+\printbibliography[heading=none]
+
+%/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+% BLOCK: To-do list (REMOVE BEFORE FINAL COMPILING)
+%/////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+% Displays to-do list
+\listoftodos[Lista de pendientes]
+\href{http://tug.ctan.org/macros/latex/contrib/todonotes/todonotes.pdf}
+{\textbf{Click para ir al manual de todonotes}}
+\todo{Quitar lista de pendientes}
+
+\end{document}

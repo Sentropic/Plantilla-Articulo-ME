@@ -1,0 +1,1417 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.6) (preloaded format=pdflatex 2021.6.21)  22 JUN 2021 14:57
+entering extended mode
+**./main.tex
+(main.tex
+LaTeX2e <2021-06-01>
+L3 programming layer <2021-06-01>
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/base\article.c
+ls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.cl
+o
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/fontsize\fonts
+ize.sty
+Package: fontsize 2021/05/21 v0.8.4 'fontsize' package. Set main font sizes (Iv
+an Valbusa)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyva
+l.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkey
+val.tex
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvu
+tils.tex
+\XKV@toks=\toks16
+\XKV@tempa@toks=\toks17
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyv
+al.tex))
+\XKV@depth=\count190
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xfp
+\xfp.sty
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3
+.sty
+Package: expl3 2021-06-01 L3 programming layer (loader) 
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3ba
+ckend-pdftex.def
+File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count191
+\l__pdf_internal_box=\box50
+))
+Package: xfp 2021-06-01 L3 Floating point unit
+))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geome
+try.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex
+.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.
+sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count192
+\Gm@cntv=\count193
+\c@Gm@tempcnt=\count194
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks18
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geome
+try.cfg))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.
+sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks19
+\inpenc@posthook=\toks20
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.s
+ty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/ebgaramond\ebg
+aramond.sty
+Package: ebgaramond 2020/04/12 (Bob Tennent and autoinst) Style file for EB Gar
+amond fonts.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifxete
+x.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifluat
+ex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.
+sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.s
+ty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/fontaxes\fonta
+xes.sty
+Package: fontaxes 2020/07/21 v1.0e Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \swshape on input line 35.
+LaTeX Info: Redefining \scshape on input line 37.
+LaTeX Info: Redefining \sscshape on input line 39.
+LaTeX Info: Redefining \ulcshape on input line 41.
+LaTeX Info: Redefining \textsw on input line 47.
+LaTeX Info: Redefining \textssc on input line 48.
+LaTeX Info: Redefining \textulc on input line 49.
+)
+LaTeX Info: Redefining \oldstylenums on input line 179.
+LaTeX Info: Redefining \textsw on input line 187.
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmat
+h.sty
+Package: amsmath 2021/04/20 v2.17j AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstex
+t.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen
+.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks21
+\ex@=\dimen147
+))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy
+.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen148
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn
+.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count195
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count196
+\leftroot@=\count197
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count198
+\DOTSCASE@=\count199
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen149
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count266
+\c@MaxMatrixCols=\count267
+\dotsspace@=\muskip16
+\c@parentequation=\count268
+\dspbrk@lvl=\count269
+\tag@help=\toks22
+\row@=\count270
+\column@=\count271
+\maxfields@=\count272
+\andhelp@=\toks23
+\eqnshift@=\dimen150
+\alignsep@=\dimen151
+\tagshift@=\dimen152
+\tagwidth@=\dimen153
+\totwidth@=\dimen154
+\lineht@=\dimen155
+\@envbody=\toks24
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks25
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfo
+nts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssy
+mb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/base\makeidx.s
+ty
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/multirow\bigst
+rut.sty
+Package: bigstrut 2021/03/15 v2.8 Provide larger struts in tabulars
+\bigstrutjot=\dimen156
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.
+sty
+Package: babel 2021/06/02 3.60 The Babel package
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.
+def
+File: babel.def 2021/06/02 3.60 Babel common definitions
+\babel@savecnt=\count273
+\U@D=\dimen157
+\l@unhyphenated=\language79
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbab
+el.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count274
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.
+cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/babel-spanish\
+spanish.ldf
+Language: spanish.ldf 2021/05/27 v5.0q Spanish support from the babel system
+\es@quottoks=\toks26
+\es@quotdepth=\count275
+Package babel Info: Making " an active character on input line 570.
+Package babel Info: Making . an active character on input line 675.
+Package babel Info: Making < an active character on input line 722.
+Package babel Info: Making > an active character on input line 722.
+))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquo
+tes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etool
+box.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count276
+)
+\csq@reset=\count277
+\csq@gtype=\count278
+\csq@glevel=\count279
+\csq@qlevel=\count280
+\csq@maxlvl=\count281
+\csq@tshold=\count282
+\csq@ltx@everypar=\toks27
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquo
+tes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquo
+tes.cfg
+File: csquotes.cfg 
+))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setsp
+ace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/float\float.st
+y
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count283
+\float@exts=\toks28
+\float@box=\box53
+\@float@everytoks=\toks29
+\@floatcapt=\box54
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graph
+icx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graph
+ics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.
+sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\g
+raphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\p
+dftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen158
+\Gin@req@width=\dimen159
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancy
+hdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip52
+\f@nch@O@elh=\skip53
+\f@nch@O@erh=\skip54
+\f@nch@O@olh=\skip55
+\f@nch@O@orh=\skip56
+\f@nch@O@elf=\skip57
+\f@nch@O@erf=\skip58
+\f@nch@O@olf=\skip59
+\f@nch@O@orf=\skip60
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/titling\titlin
+g.sty
+Package: titling 2009/09/04 v2.1d maketitle typesetting
+\thanksmarkwidth=\skip61
+\thanksmargin=\skip62
+\droptitle=\skip63
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\title
+sec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box55
+\beforetitleunit=\skip64
+\aftertitleunit=\skip65
+\ttl@plus=\dimen160
+\ttl@minus=\dimen161
+\ttl@toksa=\toks30
+\titlewidth=\dimen162
+\titlewidthlast=\dimen163
+\titlewidthfirst=\dimen164
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\bibla
+tex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\p
+dftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\in
+fwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxc
+mds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvop
+tions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kv
+setkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.
+sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count284
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.
+def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.st
+y
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+) (C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count285
+\c@listtotal=\count286
+\c@listcount=\count287
+\c@liststart=\count288
+\c@liststop=\count289
+\c@citecount=\count290
+\c@citetotal=\count291
+\c@multicitecount=\count292
+\c@multicitetotal=\count293
+\c@instcount=\count294
+\c@maxnames=\count295
+\c@minnames=\count296
+\c@maxitems=\count297
+\c@minitems=\count298
+\c@citecounter=\count299
+\c@maxcitecounter=\count300
+\c@savedcitecounter=\count301
+\c@uniquelist=\count302
+\c@uniquename=\count303
+\c@refsection=\count304
+\c@refsegment=\count305
+\c@maxextratitle=\count306
+\c@maxextratitleyear=\count307
+\c@maxextraname=\count308
+\c@maxextradate=\count309
+\c@maxextraalpha=\count310
+\c@abbrvpenalty=\count311
+\c@highnamepenalty=\count312
+\c@lownamepenalty=\count313
+\c@maxparens=\count314
+\c@parenlevel=\count315
+\blx@tempcnta=\count316
+\blx@tempcntb=\count317
+\blx@tempcntc=\count318
+\blx@maxsection=\count319
+\blx@maxsegment@0=\count320
+\blx@notetype=\count321
+\blx@parenlevel@text=\count322
+\blx@parenlevel@foot=\count323
+\blx@sectionciteorder@0=\count324
+\blx@entrysetcounter=\count325
+\blx@biblioinstance=\count326
+\labelnumberwidth=\skip66
+\labelalphawidth=\skip67
+\biblabelsep=\skip68
+\bibitemsep=\skip69
+\bibnamesep=\skip70
+\bibinitsep=\skip71
+\bibparsep=\skip72
+\bibhang=\skip73
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language80
+\c@mincomprange=\count327
+\c@maxcomprange=\count328
+\c@mincompwidth=\count329
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-d
+m.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count330
+\c@savedafterword=\count331
+\c@annotator=\count332
+\c@savedannotator=\count333
+\c@author=\count334
+\c@savedauthor=\count335
+\c@bookauthor=\count336
+\c@savedbookauthor=\count337
+\c@commentator=\count338
+\c@savedcommentator=\count339
+\c@editor=\count340
+\c@savededitor=\count341
+\c@editora=\count342
+\c@savededitora=\count343
+\c@editorb=\count344
+\c@savededitorb=\count345
+\c@editorc=\count346
+\c@savededitorc=\count347
+\c@foreword=\count348
+\c@savedforeword=\count349
+\c@holder=\count350
+\c@savedholder=\count351
+\c@introduction=\count352
+\c@savedintroduction=\count353
+\c@namea=\count354
+\c@savednamea=\count355
+\c@nameb=\count356
+\c@savednameb=\count357
+\c@namec=\count358
+\c@savednamec=\count359
+\c@translator=\count360
+\c@savedtranslator=\count361
+\c@shortauthor=\count362
+\c@savedshortauthor=\count363
+\c@shorteditor=\count364
+\c@savedshorteditor=\count365
+\c@labelname=\count366
+\c@savedlabelname=\count367
+\c@institution=\count368
+\c@savedinstitution=\count369
+\c@lista=\count370
+\c@savedlista=\count371
+\c@listb=\count372
+\c@savedlistb=\count373
+\c@listc=\count374
+\c@savedlistc=\count375
+\c@listd=\count376
+\c@savedlistd=\count377
+\c@liste=\count378
+\c@savedliste=\count379
+\c@listf=\count380
+\c@savedlistf=\count381
+\c@location=\count382
+\c@savedlocation=\count383
+\c@organization=\count384
+\c@savedorganization=\count385
+\c@origlocation=\count386
+\c@savedoriglocation=\count387
+\c@origpublisher=\count388
+\c@savedorigpublisher=\count389
+\c@publisher=\count390
+\c@savedpublisher=\count391
+\c@language=\count392
+\c@savedlanguage=\count393
+\c@origlanguage=\count394
+\c@savedoriglanguage=\count395
+\c@pageref=\count396
+\c@savedpageref=\count397
+\shorthandwidth=\skip74
+\shortjournalwidth=\skip75
+\shortserieswidth=\skip76
+\shorttitlewidth=\skip77
+\shortauthorwidth=\skip78
+\shorteditorwidth=\skip79
+\locallabelnumberwidth=\skip80
+\locallabelalphawidth=\skip81
+\localshorthandwidth=\skip82
+\localshortjournalwidth=\skip83
+\localshortserieswidth=\skip84
+\localshorttitlewidth=\skip85
+\localshortauthorwidth=\skip86
+\localshorteditorwidth=\skip87
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-c
+ompat.def
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\bibla
+tex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count398
+\c@textcitetotal=\count399
+\c@textcitemaxnames=\count400
+\c@biburlbigbreakpenalty=\count401
+\c@biburlbreakpenalty=\count402
+\c@biburlnumpenalty=\count403
+\c@biburlucpenalty=\count404
+\c@biburllcpenalty=\count405
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count406
+)
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\n
+umeric.bbx
+File: numeric.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\s
+tandard.bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count407
+\c@bbx:relatedtotal=\count408
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\n
+umeric.cbx
+File: numeric.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\supercite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\bibla
+tex.cfg
+File: biblatex.cfg 
+))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyper
+ref.sty
+Package: hyperref 2021-06-05 v7.00l Hypertext links for LaTeX
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys
+\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pd
+fescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolo
+r.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\le
+tltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhoo
+k.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen165
+\Hy@linkcounter=\count409
+\Hy@pagecounter=\count410
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1en
+c.def
+File: pd1enc.def 2021-06-05 v7.00l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyper
+ref-langpatches.def
+File: hyperref-langpatches.def 2021-06-05 v7.00l Hyperref: patches for babel la
+nguages
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intc
+alc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\ete
+xcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count411
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc
+.def
+File: puenc.def 2021-06-05 v7.00l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count412
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen166
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitse
+t.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\b
+igintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count413
+\Field@Width=\dimen167
+\Fld@charsize=\dimen168
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-
+ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count414
+\c@Item=\count415
+\c@Hfootnote=\count416
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdft
+ex.def
+File: hpdftex.def 2021-06-05 v7.00l Hyperref driver for pdfTeX
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend
+-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count417
+\c@bookmark@seq@number=\count418
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck
+\rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounte
+r\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip88
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/tocbibind\tocb
+ibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has section divisions on input line 50.
+
+
+Package tocbibind Note: Using section or other style headings.
+
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/todonotes\todo
+notes.sty
+Package: todonotes 2021/06/04 v1.1.5 Todonotes source and documentation.
+Package: todonotes 2021/06/04
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.
+sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\c
+olor.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendla
+yer\tikz.sty
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer
+\pgf.sty
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\
+pgfrcs.sty
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfutil-common.tex
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen169
+\pgfutil@tempdimb=\dimen170
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfutil-common-lists.tex))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfutil-latex.def
+\pgfutil@abb=\box56
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfrcs.code.tex
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revi
+sion.tex)
+Package: pgfrcs 2021/05/15 v3.1.9a (3.1.9a)
+))
+Package: pgf 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer
+\pgfcore.sty
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlaye
+r\pgfsys.sty
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsys.code.tex
+Package: pgfsys 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen171
+\pgf@y=\dimen172
+\pgf@xa=\dimen173
+\pgf@ya=\dimen174
+\pgf@xb=\dimen175
+\pgf@yb=\dimen176
+\pgf@xc=\dimen177
+\pgf@yc=\dimen178
+\pgf@xd=\dimen179
+\pgf@yd=\dimen180
+\w@pgf@writea=\write4
+\r@pgf@reada=\read4
+\c@pgf@counta=\count419
+\c@pgf@countb=\count420
+\c@pgf@countc=\count421
+\c@pgf@countd=\count422
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+\pgf@sys@id@count=\count423
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgf.cfg
+File: pgf.cfg 2021/05/15 v3.1.9a (3.1.9a)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfsyssoftpath@smallbuffer@items=\count424
+\pgfsyssoftpath@bigbuffer@items=\count425
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemla
+yer\pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcore.code.tex
+Package: pgfcore 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+math.code.tex
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathcalc.code.tex
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathutil.code.tex)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathparser.code.tex
+\pgfmath@dimen=\dimen181
+\pgfmath@count=\count426
+\pgfmath@box=\box57
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.code.tex
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.basic.code.tex)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.trigonometric.code.tex)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.random.code.tex)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.comparison.code.tex)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.base.code.tex)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.round.code.tex)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.misc.code.tex)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfunctions.integerarithmetics.code.tex)))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+mathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count427
+))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+int.code.tex)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@picminx=\dimen182
+\pgf@picmaxx=\dimen183
+\pgf@picminy=\dimen184
+\pgf@picmaxy=\dimen185
+\pgf@pathminx=\dimen186
+\pgf@pathmaxx=\dimen187
+\pgf@pathminy=\dimen188
+\pgf@pathmaxy=\dimen189
+\pgf@xx=\dimen190
+\pgf@xy=\dimen191
+\pgf@yx=\dimen192
+\pgf@yy=\dimen193
+\pgf@zx=\dimen194
+\pgf@zy=\dimen195
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@path@lastx=\dimen196
+\pgf@path@lasty=\dimen197
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@shorten@end@additional=\dimen198
+\pgf@shorten@start@additional=\dimen199
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfpic=\box58
+\pgf@hbox=\box59
+\pgf@layerbox@main=\box60
+\pgf@picture@serial@count=\count428
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgflinewidth=\dimen256
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@pt@x=\dimen257
+\pgf@pt@y=\dimen258
+\pgf@pt@temp=\dimen259
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfarrowsep=\dimen260
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@max=\dimen261
+\pgf@sys@shading@range@num=\count429
+\pgf@shadingcount=\count430
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfexternal@startupbox=\box61
+))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclay
+er\pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\
+pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfnodeparttextbox=\box62
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\
+pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibil
+ity\pgfcomp-version-0-65.sty
+Package: pgfcomp-version-0-65 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@nodesepstart=\dimen262
+\pgf@nodesepend=\dimen263
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibil
+ity\pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2021/05/15 v3.1.9a (3.1.9a)
+))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\
+pgffor.sty
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\
+pgfkeys.sty
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgfkeys.code.tex))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfma
+th.sty
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+math.code.tex))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilitie
+s\pgffor.code.tex
+Package: pgffor 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgf
+math.code.tex)
+\pgffor@iter=\dimen264
+\pgffor@skip=\dimen265
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
+))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontend
+layer/tikz\tikz.code.tex
+Package: tikz 2021/05/15 v3.1.9a (3.1.9a)
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/librarie
+s\pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgf@plot@mark@count=\count431
+\pgfplotmarksize=\dimen266
+)
+\tikz@lastx=\dimen267
+\tikz@lasty=\dimen268
+\tikz@lastxsaved=\dimen269
+\tikz@lastysaved=\dimen270
+\tikz@lastmovetox=\dimen271
+\tikz@lastmovetoy=\dimen272
+\tikzleveldistance=\dimen273
+\tikzsiblingdistance=\dimen274
+\tikz@figbox=\box63
+\tikz@figbox@bg=\box64
+\tikz@tempbox=\box65
+\tikz@tempbox@bg=\box66
+\tikztreelevel=\count432
+\tikznumberofchildren=\count433
+\tikznumberofcurrentchild=\count434
+\tikz@fig@count=\count435
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\
+pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\pgfmatrixcurrentrow=\count436
+\pgfmatrixcurrentcolumn=\count437
+\pgf@matrix@numberofcolumns=\count438
+)
+\tikz@expandcount=\count439
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)))
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontend
+layer/tikz/libraries\tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count440
+\calc@Bcount=\count441
+\calc@Adimen=\dimen275
+\calc@Bdimen=\dimen276
+\calc@Askip=\skip89
+\calc@Bskip=\skip90
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count442
+\calc@Cskip=\skip91
+)
+\c@@todonotes@numberoftodonotes=\count443
+)
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'spanish'.
+LaTeX Font Info:    Trying to load font information for T1+EBGaramond-LF on inp
+ut line 85.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/ebgaramond\t1e
+bgaramond-lf.fd
+File: T1EBGaramond-LF.fd 2019/10/22 (autoinst) Font definitions for T1/EBGaramo
+nd-LF.
+)
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' in size <9> not available
+
+(Font)              Font shape `T1/EBGaramond-LF/regular/n' tried instead on in
+put line 85.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/n' will be
+(Font)              scaled to size 9.0pt on input line 85.
+ (main.aux
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(64.30307pt, 474.02303pt, 59.18178pt)
+* v-part:(T,H,B)=(57.18988pt, 730.66708pt, 57.18988pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=474.02303pt
+* \textheight=730.66708pt
+* \oddsidemargin=-7.96692pt
+* \evensidemargin=-7.96692pt
+* \topmargin=-52.08011pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=51.21504pt
+* \marginparsep=10.0pt
+* \columnsep=36.99976pt
+* \skip\footins=8.09998pt plus 3.5996pt minus 1.80037pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@mv@tabular=\count444
+\c@mv@boldtabular=\count445
+LaTeX Info: Redefining \. on input line 85.
+LaTeX Info: Redefining \% on input line 85.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\su
+pp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count446
+\scratchdimen=\dimen277
+\scratchbox=\box67
+\nofMPsegments=\count447
+\nofMParguments=\count448
+\everyMPshowfont=\toks43
+\MPscratchCnt=\count449
+\MPscratchDim=\dimen278
+\MPnumerator=\count450
+\makeMPintoPDFobject=\count451
+\everyMPtoPDFconversion=\toks44
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\e
+pstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epsto
+pdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package biblatex Info: Trying to load language 'spanish'...
+Package biblatex Info: ... file 'spanish.lbx' found.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\s
+panish.lbx
+File: spanish.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Document encoding is UTF8 ....
+Package biblatex Info: ... and expl3
+(biblatex)             2021-06-01 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-c
+ase-expl3.sty
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xpa
+rse\xparse.sty
+Package: xparse 2021-06-01 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `main.bcf'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'main.bbl' found.
+ (main.bbl)
+Package biblatex Info: Reference section=0 on input line 85.
+Package biblatex Info: Reference segment=0 on input line 85.
+Package hyperref Info: Link coloring OFF on input line 85.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\namer
+ef.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refco
+unt.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestri
+ng\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count452
+)
+LaTeX Info: Redefining \ref on input line 85.
+LaTeX Info: Redefining \pageref on input line 85.
+LaTeX Info: Redefining \nameref on input line 85.
+ (main.out) (main.out)
+\@outlinefile=\write5
+\openout5 = `main.out'.
+
+
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will 
+most likely cause issues with the appearance of inserted todonotes. The issue c
+an be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to 
+loading the todonotes package. on input line 85.
+
+<images/template/ME logo.png, id=22, 25.59563pt x 22.58438pt>
+File: images/template/ME logo.png Graphic file (type png)
+<use images/template/ME logo.png>
+Package pdftex.def Info: images/template/ME logo.png  used on input line 116.
+(pdftex.def)             Requested size: 25.59555pt x 22.5843pt.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/b/n' in size <9> not available
+
+(Font)              Font shape `T1/EBGaramond-LF/bold/n' tried instead on input
+ line 116.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bold/n' will be
+(Font)              scaled to size 9.0pt on input line 116.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 116
+.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.
+fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 116
+.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.
+fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<images/template/TEC logo.png, id=23, 75.28125pt x 13.55063pt>
+File: images/template/TEC logo.png Graphic file (type png)
+<use images/template/TEC logo.png>
+Package pdftex.def Info: images/template/TEC logo.png  used on input line 116.
+(pdftex.def)             Requested size: 75.28105pt x 13.55058pt.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/b/n' in size <14> not availabl
+e
+(Font)              Font shape `T1/EBGaramond-LF/bold/n' tried instead on input
+ line 116.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bold/n' will be
+(Font)              scaled to size 14.0pt on input line 116.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/b/n' in size <11> not availabl
+e
+(Font)              Font shape `T1/EBGaramond-LF/bold/n' tried instead on input
+ line 116.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bold/n' will be
+(Font)              scaled to size 11.0pt on input line 116.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 116.
+
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 116.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <5.5> not available
+(Font)              size <5> substituted on input line 116.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <5.5> not available
+(Font)              size <5> substituted on input line 116.
+
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/b/n' in size <10> not availabl
+e
+(Font)              Font shape `T1/EBGaramond-LF/bold/n' tried instead on input
+ line 116.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/bold/n' will be
+(Font)              scaled to size 10.0pt on input line 116.
+Package hyperref Info: bookmark level for unknown todo defaults to 0 on input l
+ine 131.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' in size <4.5> not availab
+le
+(Font)              Font shape `T1/EBGaramond-LF/regular/n' tried instead on in
+put line 131.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/n' will be
+(Font)              scaled to size 4.5pt on input line 131.
+
+Underfull \vbox (badness 1281) has occurred while \output is active []
+
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/it' in size <9> not availabl
+e
+(Font)              Font shape `T1/EBGaramond-LF/regular/it' tried instead on i
+nput line 144.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/it' will be
+(Font)              scaled to size 9.0pt on input line 144.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/n' in size <6> not available
+
+(Font)              Font shape `T1/EBGaramond-LF/regular/n' tried instead on in
+put line 144.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/n' will be
+(Font)              scaled to size 6.0pt on input line 144.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/m/sc' in size <9> not availabl
+e
+(Font)              Font shape `T1/EBGaramond-LF/regular/sc' tried instead on i
+nput line 144.
+LaTeX Font Info:    Font shape `T1/EBGaramond-LF/regular/sc' will be
+(Font)              scaled to size 9.0pt on input line 144.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+44.
+
+(C:\Users\ExtremeTech Sc\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+) (main.tdo)
+\tf@tdo=\write6
+\openout6 = `main.tdo'.
+
+ [1{C:/Users/ExtremeTech Sc/AppData/Local/MiKTeX/pdftex/config/pdftex.map}
+
+
+ <./images/template/ME logo.png> <./images/template/TEC logo.png>]
+(main.aux
+LaTeX Info: Redefining \sptext on input line 40.
+LaTeX Info: Redefining \. on input line 40.
+LaTeX Info: Redefining \% on input line 40.
+)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.5pt have occurred.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 36D74536EB1124BDD6FD0EC7F7B5B7C1;523.
+Package logreq Info: Writing requests to 'main.run.xml'.
+\openout1 = `main.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 30931 strings out of 478864
+ 576859 string characters out of 2844358
+ 1316837 words of memory out of 3000000
+ 48311 multiletter control sequences out of 15000+600000
+ 474909 words of font info for 77 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 99i,10n,97p,739b,1838s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\ExtremeTech Sc\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dp
+i600\ectt0900.pk>{C:/Users/ExtremeTech Sc/AppData/Local/Programs/MiKTeX/fonts/e
+nc/dvips/ebgaramond/ebgm_xoskhe.enc}{C:/Users/ExtremeTech Sc/AppData/Local/Prog
+rams/MiKTeX/fonts/enc/dvips/ebgaramond/ebgm_utfkrl.enc}{C:/Users/ExtremeTech Sc
+/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/ebgaramond/ebgm_ldtcgl.enc}<C:/U
+sers/ExtremeTech Sc/AppData/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond
+/EBGaramond-Bold.pfb><C:/Users/ExtremeTech Sc/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/ebgaramond/EBGaramond-Italic.pfb><C:/Users/ExtremeTech Sc/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb><
+C:/Users/ExtremeTech Sc/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmmi8.pfb><C:/Users/ExtremeTech Sc/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmr8.pfb>
+Output written on main.pdf (1 page, 341371 bytes).
+PDF statistics:
+ 99 PDF objects out of 1000 (max. 8388607)
+ 11 named destinations out of 1000 (max. 500000)
+ 55 words of extra memory for PDF output out of 10000 (max. 10000000)
+

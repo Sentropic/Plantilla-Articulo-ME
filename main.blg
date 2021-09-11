@@ -1,0 +1,14 @@
+[0] Config.pm:311> INFO - This is Biber 2.16
+[1] Config.pm:314> INFO - Logfile is 'main.blg'
+[592] biber-MSWIN64:340> INFO - === 
+[784] Biber.pm:415> INFO - Reading 'main.bcf'
+[1635] Biber.pm:952> INFO - Found 3 citekeys in bib section 0
+[1792] Biber.pm:4340> INFO - Processing section 0
+[1837] Biber.pm:4531> INFO - Looking for bibtex format file 'reference.bib' for section 0
+[2089] bibtex.pm:1689> INFO - LaTeX decoding ...
+[2127] bibtex.pm:1494> INFO - Found BibTeX data source 'reference.bib'
+[2380] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2381] UCollate.pm:68> INFO - Overriding locale 'es-ES' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2381] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'es-ES'
+[2411] bbl.pm:654> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[2417] bbl.pm:757> INFO - Output to main.bbl
